@@ -1,0 +1,25 @@
+ID,Type,Symptoms,Percent
+1,Education,None or mild,35
+1,Education,Moderate to severe,45
+2,Economy,None or mild,83
+2,Economy,Moderate to severe,76
+3,Cost of Living,None or mild,93
+4,Cost of Living,Moderate to severe,96
+4,Employment,None or mild,32
+4,Employment,Moderate to severe,45
+5,COVID-19 Pandemic,None or mild,34
+5,COVID-19 Pandemic,Moderate to severe,39
+6,NHS,None or mild,80
+6,NHS,Moderate to severe,84
+7,EU Exit,None or mild,39
+7,EU Exit,Moderate to severe,39
+8,Immigration,None or mild,36
+8,Immigration,Moderate to severe,35
+9,Climate change and environment,None or mild,63
+9,Climate change and environment,Moderate to severe,65
+10,Housing,None or mild,46
+10,Housing,Moderate to severe,62
+11,Crime,None or mild,49
+11,Crime,Moderate to severe,54
+12,Other,None or mild,5
+12,Other,None or mild,7
