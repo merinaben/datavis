@@ -1,185 +1,185 @@
 period,waitingtime,patients
-Dec-18,> 12 weeks,291
-Jan-19,> 12 weeks,474
-Feb-19,> 12 weeks,470
-Mar-19,> 12 weeks,391
-Apr-19,> 12 weeks,452
-May-19,> 12 weeks,433
-Jun-19,> 12 weeks,489
-Jul-19,> 12 weeks,480
-Aug-19,> 12 weeks,487
-Sep-19,> 12 weeks,585
-Oct-19,> 12 weeks,528
-Nov-19,> 12 weeks,602
-Dec-19,> 12 weeks,390
-Jan-20,> 12 weeks,555
-Feb-20,> 12 weeks,518
-Mar-20,> 12 weeks,535
-Apr-20,> 12 weeks,448
-May-20,> 12 weeks,528
-Jun-20,> 12 weeks,504
-Jul-20,> 12 weeks,544
-Aug-20,> 12 weeks,482
-Sep-20,> 12 weeks,544
-Oct-20,> 12 weeks,557
-Nov-20,> 12 weeks,636
-Dec-20,> 12 weeks,376
-Jan-21,> 12 weeks,617
-Feb-21,> 12 weeks,487
-Mar-21,> 12 weeks,486
-Apr-21,> 12 weeks,616
-May-21,> 12 weeks,659
-Jun-21,> 12 weeks,633
-Jul-21,> 12 weeks,620
-Aug-21,> 12 weeks,459
-Sep-21,> 12 weeks,608
-Oct-21,> 12 weeks,574
-Nov-21,> 12 weeks,596
-Dec-21,> 12 weeks,425
-Jan-22,> 12 weeks,626
-Feb-22,> 12 weeks,575
-Mar-22,> 12 weeks,631
-Apr-22,> 12 weeks,547
-May-22,> 12 weeks,616
-Jun-22,> 12 weeks,595
-Jul-22,> 12 weeks,600
-Aug-22,> 12 weeks,481
-Sep-22,> 12 weeks,626
-Dec-18,6-12 weeks,357
-Jan-19,6-12 weeks,399
-Feb-19,6-12 weeks,462
-Mar-19,6-12 weeks,417
-Apr-19,6-12 weeks,325
-May-19,6-12 weeks,346
-Jun-19,6-12 weeks,297
-Jul-19,6-12 weeks,324
-Aug-19,6-12 weeks,302
-Sep-19,6-12 weeks,286
-Oct-19,6-12 weeks,339
-Nov-19,6-12 weeks,334
-Dec-19,6-12 weeks,414
-Jan-20,6-12 weeks,238
-Feb-20,6-12 weeks,364
-Mar-20,6-12 weeks,339
-Apr-20,6-12 weeks,317
-May-20,6-12 weeks,324
-Jun-20,6-12 weeks,293
-Jul-20,6-12 weeks,324
-Aug-20,6-12 weeks,355
-Sep-20,6-12 weeks,313
-Oct-20,6-12 weeks,369
-Nov-20,6-12 weeks,397
-Dec-20,6-12 weeks,410
-Jan-21,6-12 weeks,326
-Feb-21,6-12 weeks,353
-Mar-21,6-12 weeks,394
-Apr-21,6-12 weeks,289
-May-21,6-12 weeks,304
-Jun-21,6-12 weeks,336
-Jul-21,6-12 weeks,342
-Aug-21,6-12 weeks,332
-Sep-21,6-12 weeks,298
-Oct-21,6-12 weeks,303
-Nov-21,6-12 weeks,298
-Dec-21,6-12 weeks,338
-Jan-22,6-12 weeks,259
-Feb-22,6-12 weeks,302
-Mar-22,6-12 weeks,356
-Apr-22,6-12 weeks,353
-May-22,6-12 weeks,331
-Jun-22,6-12 weeks,374
-Jul-22,6-12 weeks,252
-Aug-22,6-12 weeks,301
-Sep-22,6-12 weeks,279
-Dec-18,2-6 weeks,262
-Jan-19,2-6 weeks,203
-Feb-19,2-6 weeks,242
-Mar-19,2-6 weeks,319
-Apr-19,2-6 weeks,213
-May-19,2-6 weeks,159
-Jun-19,2-6 weeks,162
-Jul-19,2-6 weeks,144
-Aug-19,2-6 weeks,167
-Sep-19,2-6 weeks,108
-Oct-19,2-6 weeks,126
-Nov-19,2-6 weeks,142
-Dec-19,2-6 weeks,159
-Jan-20,2-6 weeks,142
-Feb-20,2-6 weeks,112
-Mar-20,2-6 weeks,130
-Apr-20,2-6 weeks,160
-May-20,2-6 weeks,117
-Jun-20,2-6 weeks,135
-Jul-20,2-6 weeks,147
-Aug-20,2-6 weeks,141
-Sep-20,2-6 weeks,150
-Oct-20,2-6 weeks,130
-Nov-20,2-6 weeks,139
-Dec-20,2-6 weeks,191
-Jan-21,2-6 weeks,184
-Feb-21,2-6 weeks,154
-Mar-21,2-6 weeks,159
-Apr-21,2-6 weeks,164
-May-21,2-6 weeks,120
-Jun-21,2-6 weeks,168
-Jul-21,2-6 weeks,195
-Aug-21,2-6 weeks,149
-Sep-21,2-6 weeks,124
-Oct-21,2-6 weeks,137
-Nov-21,2-6 weeks,158
-Dec-21,2-6 weeks,137
-Jan-22,2-6 weeks,129
-Feb-22,2-6 weeks,98
-Mar-22,2-6 weeks,132
-Apr-22,2-6 weeks,165
-May-22,2-6 weeks,143
-Jun-22,2-6 weeks,128
-Jul-22,2-6 weeks,130
-Aug-22,2-6 weeks,99
-Sep-22,2-6 weeks,92
-Dec-18,0-2 weeks,278
-Jan-19,0-2 weeks,257
-Feb-19,0-2 weeks,170
-Mar-19,0-2 weeks,198
-Apr-19,0-2 weeks,232
-May-19,0-2 weeks,219
-Jun-19,0-2 weeks,99
-Jul-19,0-2 weeks,128
-Aug-19,0-2 weeks,144
-Sep-19,0-2 weeks,127
-Oct-19,0-2 weeks,159
-Nov-19,0-2 weeks,136
-Dec-19,0-2 weeks,120
-Jan-20,0-2 weeks,111
-Feb-20,0-2 weeks,129
-Mar-20,0-2 weeks,123
-Apr-20,0-2 weeks,110
-May-20,0-2 weeks,142
-Jun-20,0-2 weeks,183
-Jul-20,0-2 weeks,171
-Aug-20,0-2 weeks,161
-Sep-20,0-2 weeks,199
-Oct-20,0-2 weeks,215
-Nov-20,0-2 weeks,217
-Dec-20,0-2 weeks,204
-Jan-21,0-2 weeks,217
-Feb-21,0-2 weeks,203
-Mar-21,0-2 weeks,159
-Apr-21,0-2 weeks,166
-May-21,0-2 weeks,142
-Jun-21,0-2 weeks,102
-Jul-21,0-2 weeks,147
-Aug-21,0-2 weeks,103
-Sep-21,0-2 weeks,114
-Oct-21,0-2 weeks,107
-Nov-21,0-2 weeks,131
-Dec-21,0-2 weeks,115
-Jan-22,0-2 weeks,138
-Feb-22,0-2 weeks,146
-Mar-22,0-2 weeks,154
-Apr-22,0-2 weeks,149
-May-22,0-2 weeks,178
-Jun-22,0-2 weeks,161
-Jul-22,0-2 weeks,133
-Aug-22,0-2 weeks,166
-Sep-22,0-2 weeks,150
+December 2018,> 12 weeks,291
+January 2019,> 12 weeks,474
+February 2019,> 12 weeks,470
+March 2019,> 12 weeks,391
+April 2019,> 12 weeks,452
+May 2019,> 12 weeks,433
+June 2019,> 12 weeks,489
+July 2019,> 12 weeks,480
+August 2019,> 12 weeks,487
+September 2019,> 12 weeks,585
+October 2019,> 12 weeks,528
+November 2019,> 12 weeks,602
+December 2019,> 12 weeks,390
+January 2020,> 12 weeks,555
+February 2020,> 12 weeks,518
+March 2020,> 12 weeks,535
+April 2020,> 12 weeks,448
+May 2020,> 12 weeks,528
+June 2020,> 12 weeks,504
+July 2020,> 12 weeks,544
+August 2020,> 12 weeks,482
+September 2020,> 12 weeks,544
+October 2020,> 12 weeks,557
+November 2020,> 12 weeks,636
+December 2020,> 12 weeks,376
+January 2021,> 12 weeks,617
+February 2021,> 12 weeks,487
+March 2021,> 12 weeks,486
+April 2021,> 12 weeks,616
+May 2021,> 12 weeks,659
+June 2021,> 12 weeks,633
+July 2021,> 12 weeks,620
+August 2021,> 12 weeks,459
+September 2021,> 12 weeks,608
+October 2021,> 12 weeks,574
+November 2021,> 12 weeks,596
+December 2021,> 12 weeks,425
+January 2022,> 12 weeks,626
+February 2022,> 12 weeks,575
+March 2022,> 12 weeks,631
+April 2022,> 12 weeks,547
+May 2022,> 12 weeks,616
+June 2022,> 12 weeks,595
+July 2022,> 12 weeks,600
+August 2022,> 12 weeks,481
+September 2022,> 12 weeks,626
+December 2018,6-12 weeks,357
+January 2019,6-12 weeks,399
+February 2019,6-12 weeks,462
+March 2019,6-12 weeks,417
+April 2019,6-12 weeks,325
+May 2019,6-12 weeks,346
+June 2019,6-12 weeks,297
+July 2019,6-12 weeks,324
+August 2019,6-12 weeks,302
+September 2019,6-12 weeks,286
+October 2019,6-12 weeks,339
+November 2019,6-12 weeks,334
+December 2019,6-12 weeks,414
+January 2020,6-12 weeks,238
+February 2020,6-12 weeks,364
+March 2020,6-12 weeks,339
+April 2020,6-12 weeks,317
+May 2020,6-12 weeks,324
+June 2020,6-12 weeks,293
+July 2020,6-12 weeks,324
+August 2020,6-12 weeks,355
+September 2020,6-12 weeks,313
+October 2020,6-12 weeks,369
+November 2020,6-12 weeks,397
+December 2020,6-12 weeks,410
+January 2021,6-12 weeks,326
+February 2021,6-12 weeks,353
+March 2021,6-12 weeks,394
+April 2021,6-12 weeks,289
+May 2021,6-12 weeks,304
+June 2021,6-12 weeks,336
+July 2021,6-12 weeks,342
+August 2021,6-12 weeks,332
+September 2021,6-12 weeks,298
+October 2021,6-12 weeks,303
+November 2021,6-12 weeks,298
+December 2021,6-12 weeks,338
+January 2022,6-12 weeks,259
+February 2022,6-12 weeks,302
+March 2022,6-12 weeks,356
+April 2022,6-12 weeks,353
+May 2022,6-12 weeks,331
+June 2022,6-12 weeks,374
+July 2022,6-12 weeks,252
+August 2022,6-12 weeks,301
+September 2022,6-12 weeks,279
+December 2018,2-6 weeks,262
+January 2019,2-6 weeks,203
+February 2019,2-6 weeks,242
+March 2019,2-6 weeks,319
+April 2019,2-6 weeks,213
+May 2019,2-6 weeks,159
+June 2019,2-6 weeks,162
+July 2019,2-6 weeks,144
+August 2019,2-6 weeks,167
+September 2019,2-6 weeks,108
+October 2019,2-6 weeks,126
+November 2019,2-6 weeks,142
+December 2019,2-6 weeks,159
+January 2020,2-6 weeks,142
+February 2020,2-6 weeks,112
+March 2020,2-6 weeks,130
+April 2020,2-6 weeks,160
+May 2020,2-6 weeks,117
+June 2020,2-6 weeks,135
+July 2020,2-6 weeks,147
+August 2020,2-6 weeks,141
+September 2020,2-6 weeks,150
+October 2020,2-6 weeks,130
+November 2020,2-6 weeks,139
+December 2020,2-6 weeks,191
+January 2021,2-6 weeks,184
+February 2021,2-6 weeks,154
+March 2021,2-6 weeks,159
+April 2021,2-6 weeks,164
+May 2021,2-6 weeks,120
+June 2021,2-6 weeks,168
+July 2021,2-6 weeks,195
+August 2021,2-6 weeks,149
+September 2021,2-6 weeks,124
+October 2021,2-6 weeks,137
+November 2021,2-6 weeks,158
+December 2021,2-6 weeks,137
+January 2022,2-6 weeks,129
+February 2022,2-6 weeks,98
+March 2022,2-6 weeks,132
+April 2022,2-6 weeks,165
+May 2022,2-6 weeks,143
+June 2022,2-6 weeks,128
+July 2022,2-6 weeks,130
+August 2022,2-6 weeks,99
+September 2022,2-6 weeks,92
+December 2018,0-2 weeks,278
+January 2019,0-2 weeks,257
+February 2019,0-2 weeks,170
+March 2019,0-2 weeks,198
+April 2019,0-2 weeks,232
+May 2019,0-2 weeks,219
+June 2019,0-2 weeks,99
+July 2019,0-2 weeks,128
+August 2019,0-2 weeks,144
+September 2019,0-2 weeks,127
+October 2019,0-2 weeks,159
+November 2019,0-2 weeks,136
+December 2019,0-2 weeks,120
+January 2020,0-2 weeks,111
+February 2020,0-2 weeks,129
+March 2020,0-2 weeks,123
+April 2020,0-2 weeks,110
+May 2020,0-2 weeks,142
+June 2020,0-2 weeks,183
+July 2020,0-2 weeks,171
+August 2020,0-2 weeks,161
+September 2020,0-2 weeks,199
+October 2020,0-2 weeks,215
+November 2020,0-2 weeks,217
+December 2020,0-2 weeks,204
+January 2021,0-2 weeks,217
+February 2021,0-2 weeks,203
+March 2021,0-2 weeks,159
+April 2021,0-2 weeks,166
+May 2021,0-2 weeks,142
+June 2021,0-2 weeks,102
+July 2021,0-2 weeks,147
+August 2021,0-2 weeks,103
+September 2021,0-2 weeks,114
+October 2021,0-2 weeks,107
+November 2021,0-2 weeks,131
+December 2021,0-2 weeks,115
+January 2022,0-2 weeks,138
+February 2022,0-2 weeks,146
+March 2022,0-2 weeks,154
+April 2022,0-2 weeks,149
+May 2022,0-2 weeks,178
+June 2022,0-2 weeks,161
+July 2022,0-2 weeks,133
+August 2022,0-2 weeks,166
+September 2022,0-2 weeks,150
